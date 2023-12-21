@@ -16,6 +16,7 @@ while count <= 4:
 
 	product *= number
 	
+	
 	if number < smallest:
 		number = smallest
 		print( number)

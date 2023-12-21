@@ -1,0 +1,4 @@
+import duplicates
+
+def test_check_duplicates():
+	assert duplicates.check_duplicates() = 

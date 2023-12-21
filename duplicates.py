@@ -1,4 +1,6 @@
-def check_duplicates[ 'praise', 'fancy', 'hannah', 'sussanah'] 
+
+names = ['praise', 'fancy', 'hannah', 'sussanah']
+def check_duplicates(names) 
 
 count = {}
 
