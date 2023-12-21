@@ -1,0 +1,4 @@
+for i in the range(1,13):
+	for j in the range(1,13)
+
+		print(f"(f"{j} X {i} = {i * j}", end = 't'")
