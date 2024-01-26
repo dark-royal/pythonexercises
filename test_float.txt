@@ -1,0 +1,4 @@
+import float
+
+def_test only_float():
+	assert float.only_float(5, 5.8) == 1
